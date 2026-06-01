@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/screenshots/thumb.png" alt="Pedro's Adventure" width="600"/>
+  <img 
+  src="assets/screenshots/thumb.png" 
+  width="350"
+  style="display:block; margin:auto;"
+/>
 </p>
 
 <h1 align="center">Pedro's Adventure</h1>
